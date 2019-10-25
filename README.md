@@ -1,2 +1,2 @@
 # super-cars-online
-super cool
+Project Supercars Online
